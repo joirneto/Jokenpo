@@ -3,6 +3,7 @@ Jogo Jokenpô utilizando CLIs e node.js
 
 ## Início
 
+Módulo de estudos em NodeJS
 
 ### Pré-requisitos:
 
